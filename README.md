@@ -1,4 +1,4 @@
-[English](###English)<br>
+[English](#english)<br>
 
 阅读前请知道:对于没有完成的项目部分用强调字样.**类似这样**.<br>
 
@@ -27,7 +27,7 @@ ________________________________________________________________________________
 目前阶段:第一阶段<br>
 
 
-### English
+# English
 
 Before reading, please know: emphasize the parts of the project that are not completed.**Something like this**. <br>
 
