@@ -56,5 +56,5 @@ In the first phase, we plan to complete the display of hand-held guns and the cr
 Current Stage<br>: Phase I
 
 
-感谢您的持续关注和阅读!!!
+感谢您的持续关注和阅读!!!<br>
 Thank you for your continued interest and reading!!
