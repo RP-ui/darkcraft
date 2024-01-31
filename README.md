@@ -27,4 +27,34 @@ ________________________________________________________________________________
 目前阶段:第一阶段<br>
 
 
+#English
+
+Before reading, please know: emphasize the parts of the project that are not completed.**Something like this**. <br>
+
+For completed project sections, use italics.*something like this*.
+
+For project sections that are not fully completed, use emphasis and italics.***Something like this***.
+
+Note: If the part of the project that is not fully completed changes from emphasis and italics to italics (completed), it may be completed or it may not be completed due to an issue
+
+____________________________________________________________________________________________________________________
+
+
+## What is this for<br>
+Use modifying texture packs to make gun models, and create a gun-related game in Minecraft with mods and maps<br>
+
+This project is in the development phase<br>***
+
+## Our development plan
+
+For the time being, we will classify the development of the initial segment as **Phase 1**, and the subsequent phases are to be determined. <br>
+
+### Phase 1
+
+In the first phase, we plan to complete the display of hand-held guns and the creation of the map, and we are also working on the map making plan, which we will update soon. <br>
+
+Current Stage<br>: Phase I
+
+
 感谢您的持续关注和阅读!!!
+Thank you for your continued interest and reading!!
