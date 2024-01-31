@@ -59,8 +59,7 @@ For the time being, we will classify the development of the initial segment as *
 
 In the first phase, we plan to complete the display of hand-held guns and the creation of the map, and we are also working on the map making plan, which we will update soon. <br>
 
-Current Stage<br>: Phase I
+Current Stage<br>: Phase I<br>
 
 
-感谢您的持续关注和阅读!!!<br>
 Thank you for your continued interest and reading!!
