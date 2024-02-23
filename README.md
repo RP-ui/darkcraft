@@ -18,7 +18,7 @@ ________________________________________________________________________________
 ## 这是干什么的<br>
 用修改材质包,制作枪械模型,搭配模组和地图创建一个和枪械有关的、在Minecraft里的游戏<br>
 
-***此项目正在开发阶段***<br>
+***此项目正在整改***<br>
 
 ## 我们的开发计划
 
@@ -111,7 +111,7 @@ ________________________________________________________________________________
 Use modifying texture packs to make gun models, and create a gun-related game in Minecraft with mods and maps<br>
 
 
-This project is in the development phase<br>***
+***This project is in the process of being rectified***
 
 ## Our development plan
 
